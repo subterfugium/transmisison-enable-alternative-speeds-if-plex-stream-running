@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Install transmission-remote before using this script
+# Install transmission-remote before using this script. Setup up transmission GUI to accept remote connections.
 
 # --- EDIT HERE START ---
 mediarootpath='/media/Storage'
