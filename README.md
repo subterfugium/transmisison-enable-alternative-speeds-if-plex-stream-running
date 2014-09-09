@@ -1,7 +1,7 @@
 transmisison-enable-alternative-speeds-if-plex-stream-running
 =============================================================
 
-Enable transmission alternative speed if Plex stream is running.
+Enable transmission alternative speed if Plex stream is running. Script uses transmission-remote tool to control transmission (in this case enable alternative speeds and disable alternative speeds).
 
  Run this in crontab every minute
 
