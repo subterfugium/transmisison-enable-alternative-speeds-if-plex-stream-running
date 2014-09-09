@@ -9,8 +9,12 @@ Enable transmission alternative speed if Plex stream is running.
 
  crontab -e
 
-  m h  dom mon dow   command
-  * *  *   *   *     sh /home/seppo/transmisison-enable-alternative-speeds-if-plex-stream-running.sh
+
+```
+m h  dom mon dow   command
+* *  *   *   *     sh /home/seppo/transmisison-enable-alternative-speeds-if-plex-stream-running.sh
+```
+
 
  
   Script will check that Plex New Trancoder is running and stream from $mediarootpath
