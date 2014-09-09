@@ -29,7 +29,7 @@ m h  dom mon dow   command
 ```
    otto@server:~/scripts$ ps ax |grep -v grep |grep "$service2grep" |grep "\-i $mediarootpath"
 
-   29939 ?        S<l    0:06 /usr/lib/plexmediaserver/Resources/Plex New Transcoder -i /media/#   Storage/Pictures/2013 Zillertal/videos/2013-02-09_10-23-52+02-00.mp4 
+   29939 ?        S<l    0:06 /usr/lib/plexmediaserver/Resources/Plex New Transcoder -i /media/Storage/Pictures/2013 Zillertal/videos/2013-02-09_10-23-52+02-00.mp4 
 ```
 
 
